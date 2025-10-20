@@ -22,7 +22,7 @@ Follow these steps to set up and run the project locally.
 1.  **Clone the Repository (Optional):**
     If you have this project in a Git repository, clone it first.
     ```bash
-    git clone https://your-repository-url/weather_cli.git
+    git clone https://github.com/Akashkrjana/API-based-Weather-Fetcher-CLI.git
     cd weather_cli
     ```
 
