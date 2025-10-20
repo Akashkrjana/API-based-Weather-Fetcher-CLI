@@ -1,0 +1,9 @@
+[project]
+name = "api-weather-tracker-cli"
+version = "0.1.0"
+description = "A command-line tool to fetch and display real-time weather data from the OpenWeatherMap API."
+
+dependencies = ["requests","python-dotenv",]
+
+[project.scripts]
+weather-cli = "weather:main"

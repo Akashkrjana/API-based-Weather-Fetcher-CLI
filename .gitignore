@@ -1,0 +1,22 @@
+# Environment variables
+# ---------------------
+# Ignore the file containing secrets and environment-specific config.
+.env
+
+# Python virtual environment
+# --------------------------
+# This is generated locally and can be huge. Never commit it.
+venv/
+.venv/
+
+# Python bytecode and caches
+# --------------------------
+# These are auto-generated files that don't need to be versioned.
+__pycache__/
+*.pyc
+
+# IDE / Editor specific files
+# ---------------------------
+# These are user-specific settings and should not be shared.
+.vscode/
+.idea/

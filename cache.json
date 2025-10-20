@@ -1,0 +1,20 @@
+{
+    "london": {
+        "data": {
+            "city": "London",
+            "temperature": 13.2,
+            "humidity": 91,
+            "description": "overcast clouds"
+        },
+        "timestamp": 1760993403.753387
+    },
+    "tokyo": {
+        "data": {
+            "city": "Tokyo",
+            "temperature": 14.92,
+            "humidity": 71,
+            "description": "broken clouds"
+        },
+        "timestamp": 1760993519.2629046
+    }
+}
